@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+🗣️ Preferred languages: English, Russian, Belarusian, Ukrainian
+<br/> ☝️&nbsp;&nbsp;_Mikita / Никита / Мікіта / Микита_
+
+🙅‍♂️ I'm __not__ available for hire...
+
+🎮 ... but may collaborate on interesting projects.
+
+#### Interests
+
+* UI/UX
+* 3D graphics
+* Game design
+
+#### Contact
+
+📫 Reach me via [email](mailto:edloidas@gmail.com) or [Telegram](http://t.me/edloidas).
+
 <!--
 **edloidas/edloidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 

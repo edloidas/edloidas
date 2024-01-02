@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🗣️ Preferred languages: English, Russian, Belarusian, Ukrainian
-<br/> ☝️&nbsp;&nbsp;_Mikita / Никита / Мікіта / Микита_
+🗣️ Preferred languages: English, Russian, Spanish, Belarusian, Ukrainian
+<br/> ☝️&nbsp;&nbsp;_Mikita / Никита / Mikita / Мікіта / Микита_
 
 🙅‍♂️ I'm __not__ available for hire...
 
@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
